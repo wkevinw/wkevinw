@@ -1,4 +1,4 @@
-## Olá Sou Wanderson, Desenvolvedor de tecnologia da informação!
+## Olá Sou Wanderson!
 <div class="row">
 <div align="center">
   <a href="https://github.com/wkevinw">
