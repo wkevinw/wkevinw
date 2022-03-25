@@ -1,4 +1,5 @@
 ## Olá Sou Wanderson, Desenvolvedor de tecnologia da informação!
+<div class="row">
 <div align="center">
   <a href="https://github.com/wkevinw1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkevinw&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-  
+  </div> 
   ##
  
 <div> 
